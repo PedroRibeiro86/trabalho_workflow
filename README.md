@@ -76,10 +76,7 @@ Schema: `workflow`
 - `gold_bitcoin_daily_metrics`
 
 ## 8. Video pitch (5-10 min)
-Sugestao de publicacao:
-
-- YouTube (nao listado) ou Google Drive.
-- Incluir o link aqui nesta secao apos gravacao.
+Video pitch ja compartilhado: [trabalho_workflow](https://1drv.ms/v/c/4ecb51ba76294497/IQBC0-1VDyvKSbM7jZDqc76tAXwOs4cFOMTCwX7FD93wFA0?e=wyfrLa)
 
 ## 9. Comandos uteis
 
