@@ -2,6 +2,8 @@
 
 Projeto final da disciplina com foco em um pipeline de dados simples, robusto e totalmente executavel via Docker.
 
+**Video pitch:** [trabalho_workflow](https://1drv.ms/v/c/4ecb51ba76294497/IQBC0-1VDyvKSbM7jZDqc76tAXwOs4cFOMTCwX7FD93wFA0?e=wyfrLa)
+
 ## 1. Problema e contexto
 
 Este projeto resolve o problema de coletar, organizar e disponibilizar cotacoes de Bitcoin para analise diaria, sem duplicar dados em reexecucoes.
