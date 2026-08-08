@@ -77,6 +77,7 @@ Schema: `workflow`
 
 ## 8. Video pitch (5-10 min)
 Video pitch ja compartilhado: [trabalho_workflow](https://1drv.ms/v/c/4ecb51ba76294497/IQBC0-1VDyvKSbM7jZDqc76tAXwOs4cFOMTCwX7FD93wFA0?e=wyfrLa)
+Video complementar: [Trabalho Workflow - Video Complementar](https://1drv.ms/v/c/4ecb51ba76294497/IQB4gAMAdrGYTLAS2S1YSmhzAUr43OEqjnEHly-sFsNJLSE?e=xaT8U4)
 
 ## 9. Comandos uteis
 
