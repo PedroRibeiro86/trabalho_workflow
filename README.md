@@ -63,9 +63,9 @@ Ative a DAG `bitcoin_medallion_pipeline` e rode manualmente uma execucao para de
 
 ## 6. Decisoes tecnicas relevantes
 
-- Airflow em vez de Prefect: melhor aderencia ao foco de agendamento cron e demonstracao em sala com UI consolidada.
-- PostgreSQL unico: reduz complexidade operacional e acelera setup para entrega minima.
-- Medalhao simples: facilita explicar valor de cada camada no pitch.
+- Airflow em vez de Prefect: melhor aderencia ao foco de agendamento cron e UI consolidada.
+- PostgreSQL: reduz complexidade operacional e acelera setup.
+- Medalhao simples: facilita a gestão de cada camada.
 
 ## 7. Estrutura de dados
 
